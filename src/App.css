@@ -31,7 +31,7 @@
 .heading {
   background-color: transparent;
   backdrop-filter: blur(5px);
-  height: 3.6rem;
+  height: 3.9rem;
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -56,14 +56,15 @@
 }
 
 .cv-button {
-  font-size: 1rem;
+  font-size: 1.1rem;
   font-weight: 500;
   cursor: pointer;
   background-color: transparent;
-  border: solid 1px #f44761;
-  padding: 0.5rem 0.75rem;
+  border: solid 2px #f44761;
+  padding: 0.5rem 1rem;
   border-radius: 5px;
   color: #f44761;
+  text-decoration: none;
 }
 
 .cv-button:hover {
@@ -111,13 +112,12 @@
   font-weight: 800;
 }
 
-.hero-wrapper button {
-  outline: none;
-  border: none;
+.hero-wrapper div div a {
   padding: 0.5rem 0.75rem;
   border-radius: 5px;
-  cursor: pointer;
   background-color: #f44761;
+  color: #f4faff;
+  text-decoration: none;
   font-size: 1.2rem;
 }
 
@@ -229,6 +229,7 @@
 
 .project-tech {
   color: #f44761;
+  font-weight: 900;
 }
 
 .project-desc {

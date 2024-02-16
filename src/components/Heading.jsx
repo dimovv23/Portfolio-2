@@ -49,12 +49,11 @@ const Heading = () => {
         </span>
       </div>
       <a
-        href="/CV.pdf"
-        download="CV-Georgi-Dimov"
         target="_blank"
-        rel="noreferrer"
+        href="https://drive.google.com/file/d/1ux99mYIWKIu2GP17AwliuXTY6qDhm_Sc/view?usp=drive_link"
+        className="cv-button"
       >
-        <button className="cv-button">Download CV</button>
+        My resume
       </a>
     </header>
   );
