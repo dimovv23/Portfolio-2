@@ -77,7 +77,7 @@
   z-index: 10;
   max-width: 1150px;
   margin: auto;
-  padding: 5.6rem;
+  padding: 5rem;
   overflow: hidden;
 }
 
@@ -128,7 +128,7 @@
 }
 
 .about-heading-wrapper h3 {
-  font-size: 3.2rem;
+  font-size: 4.2rem;
 }
 
 .about-heading-wrapper h3 span {
