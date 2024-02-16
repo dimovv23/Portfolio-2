@@ -248,6 +248,10 @@
   margin-bottom: 0;
 }
 
+.contact-wrapper h4 span {
+  color: #f44761;
+}
+
 .contact-wrapper p {
   font-size: 1.3rem;
   font-weight: 200;

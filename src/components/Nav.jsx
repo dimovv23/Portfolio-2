@@ -6,7 +6,7 @@ const Nav = () => {
       <img src={logo} alt="Logo" width={40} />
       <a href="#about">About</a>
       <a href="#projects">Projects</a>
-      <a href="">Contact</a>
+      <a href="#contacts">Contact</a>
     </nav>
   );
 };
