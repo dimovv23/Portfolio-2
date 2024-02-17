@@ -163,6 +163,8 @@
 }
 
 .used-technologies {
+  padding-left: 0.5rem;
+  padding-bottom: 0.75rem;
   display: flex;
   flex-wrap: wrap;
 }
@@ -173,6 +175,12 @@
   border-radius: 25px;
   margin-top: 0.5rem;
   margin-right: 0.5rem;
+  cursor: grab;
+}
+
+.chip:hover {
+  scale: 1.1;
+  color: #f44761;
 }
 
 .about-footer {

@@ -1,6 +1,6 @@
 import { tecnologies } from "../constants/constants";
-import { ReactComponentElement } from "react";
 import Reveal from "./utils/Reveal";
+import { motion } from "framer-motion";
 
 const Technologies = () => {
   return (
@@ -22,7 +22,19 @@ const Technologies = () => {
         </h3>
         <div className="used-technologies">
           {tecnologies.map((tecnology) => (
-            <span className="chip">{tecnology}</span>
+            <motion.span
+              drag
+              dragConstraints={{
+                top: 0,
+                right: 0,
+                bottom: 0,
+                left: 0,
+              }}
+              dragTransition={{ bounceStiffness: 600, bounceDamping: 10 }}
+              className="chip"
+            >
+              {tecnology}
+            </motion.span>
           ))}
         </div>
       </div>
