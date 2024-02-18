@@ -11,6 +11,12 @@
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  --text-xs: 1.2rem;
+  --text-sm: 1.4rem;
+  --text-md: 1.8rem;
+  --text-lg: 3rem;
+  --text-xl: 4.2rem;
+  --text-2xl: 5.8rem;
 }
 
 html {
