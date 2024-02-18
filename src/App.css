@@ -304,7 +304,7 @@
   }
 
   .about-heading-wrapper h3 {
-    font-size: var(--text-md);
+    font-size: var(--text-lg);
   }
 
   .about-content {
