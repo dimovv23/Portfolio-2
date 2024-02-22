@@ -20,6 +20,12 @@ export const tecnologies = [
 
 export const projects = [
   {
+    name: "SumzAI",
+    description: "Simplify your reading with the help of AI.",
+    url: "https://github.com/dimovv23/AI-Summarizer",
+    tecnologies: "HTML - CSS - React",
+  },
+  {
     name: "Investment Calculator",
     description:
       "Web App for calculating investments for preffered period of time.",
