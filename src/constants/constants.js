@@ -57,16 +57,4 @@ export const projects = [
     url: "https://github.com/dimovv23/Pet_Adoption",
     tecnologies: "Java - Spring - Thymeleaf",
   },
-  {
-    name: "Drum Kit",
-    description: "Web App that simulates a drum kit.",
-    url: "https://dimovv23.github.io/Drum-Kit/",
-    tecnologies: "HTML - CSS - JavaScript",
-  },
-  {
-    name: "Simon Game",
-    description: "Web App that implements the Simon Game.",
-    url: "https://dimovv23.github.io/The-Simon-Game/",
-    tecnologies: "HTML - CSS - JavaScript",
-  },
 ];
