@@ -33,7 +33,7 @@ const About = () => {
                   fontWeight: "500",
                 }}
               >
-                frontend software developer
+                frontend developer
               </span>
               .
             </p>
