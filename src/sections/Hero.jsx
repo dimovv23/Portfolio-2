@@ -11,7 +11,7 @@ const Hero = () => {
         </Reveal>
         <Reveal>
           <h2>
-            I'm a <span>Software Engineer</span>
+            I'm a <span>Software Developer</span>
           </h2>
         </Reveal>
         <Reveal>

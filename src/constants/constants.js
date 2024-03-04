@@ -15,6 +15,7 @@ export const tecnologies = [
   "C++",
   "Postgres",
   "MySQL",
+  "MongoDB",
   "Framer Motion",
 ];
 
