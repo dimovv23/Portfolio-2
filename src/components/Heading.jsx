@@ -58,7 +58,7 @@ const Heading = () => {
       </div>
       <a
         target="_blank"
-        href="https://drive.google.com/file/d/1ux99mYIWKIu2GP17AwliuXTY6qDhm_Sc/view?usp=drive_link"
+        href="https://drive.google.com/file/d/1J94T4mcSaQ4Nd0MHgHOGNkFYHt5p5IMc/view?usp=sharing"
         className="cv-button"
       >
         My resume
