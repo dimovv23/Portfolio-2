@@ -56,13 +56,6 @@ const Heading = () => {
           </span>
         </SlideDown>
       </div>
-      <a
-        target="_blank"
-        href="https://drive.google.com/file/d/1J94T4mcSaQ4Nd0MHgHOGNkFYHt5p5IMc/view?usp=sharing"
-        className="cv-button"
-      >
-        My resume
-      </a>
     </header>
   );
 };
